@@ -1,0 +1,13 @@
+.sortBtn {
+        -webkit-border-radius: 15px;
+        -moz-border-radius: 15px;
+        border-radius: 15px;
+        -webkit-box-shadow: rgba(0, 0, 0, .55) 0 1px 6px;
+        -moz-box-shadow: rgba(0, 0, 0, .55) 0 1px 6px;
+        box-shadow: rgba(0, 0, 0, .55) 0 1px 6px;
+        font-family: verdana,helvetica,arial,sans-serif;
+}
+
+.sortBtn:hover {
+	border:2px solid #dad9d8;
+}

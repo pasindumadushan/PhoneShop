@@ -1,0 +1,142 @@
+
+
+#footer, 
+li a:hover, li .a.more-active:active {
+	background-color: #A52223 !important;
+	color:#FFF;
+	padding:8px;
+}
+
+ol > li:before {
+    border-left: 5px solid #A52223;
+}
+#header {
+    background-color: #A52223;
+    margin: 35px 0 0;
+    padding: 30px 0;
+	height:10px
+}
+body {
+  color: #404040;
+  font-family: 'PT Sans',sans-serif;
+  font-size: 13px;
+}
+a {
+    font-weight: normal;
+    outline: medium none;
+    -webkit-transition: all 0.3s ease-in 0s;
+  -moz-transition: all 0.3s ease-in 0s;
+  -o-transition: all 0.3s ease-in 0s;
+  -ms-transition: all 0.3s ease-in 0s;
+}
+
+#topbar, #header {
+    display: inline;
+    float: left;
+    width: 100%;
+}
+
+#topbar {
+      text-transform:uppercase;
+    margin-bottom:0px;
+    font-size:12px;
+    font-family: Oswald,sans-serif;
+    padding:10px 0 9px;
+    box-shadow:0 0 5px rgba(0, 0, 0, 0.2) inset;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:999999;
+}
+
+#topbar p {
+    margin-bottom: 0;
+}
+
+#topbar li {
+    float: right;
+    padding: 0 20px 0 10px;
+}
+
+#topbar .grid40, #topbar .grid16 {
+  float: right;
+  text-align: right;
+  width: auto;
+}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,form,input,textarea,p,td { 
+	margin:0;
+	padding:0;
+}
+
+img { 
+	border:0;
+}
+
+ol,ul {
+	list-style:none;
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+#container {
+	float: left;
+	width: 100%;
+}
+
+.subcontainer {
+	margin: 0 auto;
+	width: 92%;
+}
+.grid16, .grid24, .grid96 {
+	float: left;
+	margin-left: 1%;
+	margin-right: 1%;
+}
+.grid16 {
+	width: 14.666%;
+}
+.grid24 {
+	width: 23%;
+}
+
+.sortBtn {
+        -webkit-border-radius: 15px;
+        -moz-border-radius: 15px;
+        border-radius: 15px;
+        -webkit-box-shadow: rgba(0, 0, 0, .55) 0 1px 6px;
+        -moz-box-shadow: rgba(0, 0, 0, .55) 0 1px 6px;
+        box-shadow: rgba(0, 0, 0, .55) 0 1px 6px;
+        font-family: verdana,helvetica,arial,sans-serif;
+}
+
+.sortBtn:hover {
+	border:2px solid #dad9d8;
+}
+
+#m:hover{
+    
+  font-size: 17px;  
+  color: darkgray;
+  text-shadow: 1px;  
+}
+#adim:hover{
+    height:115px;
+    width: 115px;
+    opacity: .8;
+    -webkit-opacity: .8;
+    -moz-opacity: .8;
+    
+    
+}
+#acc{
+    color: #404040
+    
+}
+#acc:hover{
+    color: #C03;
+    
+}
+
+

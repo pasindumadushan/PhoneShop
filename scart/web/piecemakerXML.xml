@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Piecemaker>
+  <Settings>
+    <imageWidth>900</imageWidth>
+    <imageHeight>250</imageHeight>
+    <segments>7</segments>
+    <tweenTime>1.2</tweenTime>
+    <tweenDelay>0.1</tweenDelay>
+    <tweenType>easeInOutBack</tweenType>
+    <zDistance>0</zDistance>
+    <expand>20</expand>
+    <innerColor>0x111111</innerColor>
+    <shadowDarkness>100</shadowDarkness>
+    <autoplay>2</autoplay>
+  </Settings>
+  <Image Filename="s1.gif">
+  </Image>
+	
+  <Image Filename="s2.gif">
+  </Image>
+  
+  <Image Filename="s3.gif">
+  </Image>
+  
+  <Image Filename="s4.gif">
+  </Image>
+  
+  <Image Filename="s5.gif">
+  </Image>
+  
+  <Image Filename="s6.gif">
+  </Image>
+  
+  <Image Filename="s7.gif">
+  </Image>
+</Piecemaker>
