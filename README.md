@@ -1,6 +1,6 @@
 # Introduction
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/pasindumadushan/PhoneShop/blob/main/Read%20me%20images/1.png)
 
 Simply this system is related to mobile phone web site. Through this system, customer can easily find out the mobile phones as their preferences and they can online order the mobile phone that they like. 
 
@@ -28,7 +28,7 @@ The system shall allow user to confirm the completion of current configuration
 
 	Provide comprehensive product details
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/pasindumadushan/PhoneShop/blob/main/Read%20me%20images/2.png)
 
 The system shall display detailed information of the selected mobile phone.
  The system shall provide browsing options to see product details.
@@ -38,7 +38,7 @@ The system shall display detailed product sorting using acending and descending 
 
 	Provide Search facility.
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/pasindumadushan/PhoneShop/blob/main/Read%20me%20images/3.png)
 
 The system shall enable user to enter the search text on the screen.
 The system shall enable user to select multiple options on the screen to search.
@@ -48,9 +48,9 @@ The system shall notify the user when no matching product is found on the search
 
 	Maintain customer profile
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/pasindumadushan/PhoneShop/blob/main/Read%20me%20images/4.png)
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/pasindumadushan/PhoneShop/blob/main/Read%20me%20images/5.png)
 
 The system shall allow user to create profile and set his credential.
 The system shall authenticate user credentials to view the profile.
@@ -61,7 +61,7 @@ The system shall allow to delete admins, users, phones.
 
 	Provide personalized profile
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/pasindumadushan/PhoneShop/blob/main/Read%20me%20images/6.png)
 
 The system shall display both the active and completed order history in the customer profile.
 The system shall allow user to select the orders, delete  from the order history.
@@ -83,7 +83,7 @@ The system shall optionally allow user to print the invoice.
 
 	Provide shopping cart facility
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/pasindumadushan/PhoneShop/blob/main/Read%20me%20images/7.png)
 
 The system shall provide shopping cart during online purchase.
 The system shall allow user to add/remove products in the shopping cart.
@@ -96,7 +96,7 @@ The system shall display tentative duration for shipping.
 
 	Online tracking of shipments
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/pasindumadushan/PhoneShop/blob/main/Read%20me%20images/8.png)
 
 The system shall allow user to enter the order information for tracking.
 The system shall display the current tracking information about the order.
@@ -114,7 +114,7 @@ The system shall notify the user about any changes made to the order.
 
 	Allow Online Mobile phone reviews and ratings
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/pasindumadushan/PhoneShop/blob/main/Read%20me%20images/9.png)
 
 The system shall display the reviews and ratings of each product, when it is selected.
 The system shall enable the user to enter their reviews and ratings.
@@ -190,4 +190,4 @@ A general knowledge of basic computer skills is required to use the product
 
 # Enhanced Entity Relationship Diagram 
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/pasindumadushan/PhoneShop/blob/main/Read%20me%20images/10.png)
